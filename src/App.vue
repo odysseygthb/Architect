@@ -11,6 +11,10 @@
   <router-view/>
 </template>
 
+<script>
+console.log(123)
+</script>
+
 <style>
   body {
     margin: 0;
